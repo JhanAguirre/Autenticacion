@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|c:\\users\\dell\\source\\repos\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|c:\\users\\dell\\source\\repos\\autenticacion\\pages\\shared\\student\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|solutionrelative:pages\\shared\\student\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|c:\\users\\dell\\source\\repos\\autenticacion\\pages\\shared\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|solutionrelative:pages\\shared\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|c:\\users\\dell\\source\\repos\\autenticacion\\pages\\shared\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE2688E-0B6B-4C22-91BD-C854B7C5B543}|Autenticacion.csproj|solutionrelative:pages\\shared\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T05:06:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Student\\Student.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Student\\Student.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Student\\Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T04:59:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Teacher\\Teacher.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Teacher\\Teacher.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Teacher\\Teacher.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Teacher\\Teacher.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T04:59:03.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Student\\Subject.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Student\\Subject.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Autenticacion\\Pages\\Shared\\Student\\Subject.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Student\\Subject.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T04:58:48.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
